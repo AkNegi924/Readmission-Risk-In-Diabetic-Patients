@@ -1,2 +1,2 @@
 # Readmission-Risk-in-Diabetic-Patients
-This is my Data Science Project which I did in collaboration with my colleague and friend, Anush Revankar.
+In this study, we propose novel enhancements to address these limitations and improve the accuracy of readmission risk prediction models for diabetic patients. Our approach involves leveraging advanced feature selection techniques, including ReliefF, Correlation, Information Gain, and SelectKBest algorithms, to identify the most relevant factors influencing readmission risk. By combining these methods, we aim to create a comprehensive understanding of the underlying factors contributing to readmission risk, enabling more informed healthcare providers’ decision-making.
